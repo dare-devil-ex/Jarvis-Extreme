@@ -1,0 +1,8 @@
+pyttsx3
+wikipedia
+PyAutoGUI
+SpeechRecognition==3.8.1
+pyjokes
+wget
+pyTelegramBotAPI
+pygame
